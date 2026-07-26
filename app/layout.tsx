@@ -19,7 +19,9 @@ export const metadata: Metadata = {
   description:
     "Find Sahyadri agri-input dealers near you by pincode or device location.",
   icons: {
-    icon: "/favicon.svg",
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
   },
 };
 
