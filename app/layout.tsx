@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   title: "Find a Dealer | Sahyadri",
   description:
     "Find Sahyadri agri-input dealers near you by pincode or device location.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export const viewport: Viewport = {
