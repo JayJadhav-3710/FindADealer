@@ -1,7 +1,4 @@
-import {
-  directionsUrl,
-  formatDistanceKm,
-} from "@/lib/geo";
+import { directionsUrl, formatDistanceKm } from "@/lib/geo";
 import { displayPhone, telHref, whatsappHref } from "@/lib/phone";
 import type { RankedDealer } from "@/lib/types";
 

@@ -29,8 +29,7 @@ export default function Home() {
       </main>
 
       <footer className="mt-10 border-t border-[var(--border)] pt-4 text-xs text-[var(--muted)]">
-        Sample dealer data for demo use. Location is used only on your device to
-        sort results.
+        Sample dealer data for demo use. Location is used only on your device to sort results.
       </footer>
     </div>
   );

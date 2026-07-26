@@ -11,7 +11,6 @@ function toRadians(degrees: number): number {
   return (degrees * Math.PI) / 180;
 }
 
-/** Great-circle distance between two WGS84 points (Haversine). */
 export function haversineKm(a: Coordinates, b: Coordinates): number {
   const dLat = toRadians(b.latitude - a.latitude);
   const dLon = toRadians(b.longitude - a.longitude);
