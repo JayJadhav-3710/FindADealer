@@ -1,0 +1,222 @@
+[
+  {
+    "dealer_id": "D001",
+    "dealer_name": "Krushiraj Agro Agencies",
+    "town": "Nashik",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422001",
+    "phone": "+91 90000 00001",
+    "latitude": 19.9982,
+    "longitude": 73.7912
+  },
+  {
+    "dealer_id": "D002",
+    "dealer_name": "Shetkari Mitra Krushi Kendra",
+    "town": "Pimpalgaon Baswant",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422209",
+    "phone": "+91 90000 00002",
+    "latitude": 20.1671,
+    "longitude": 73.9841
+  },
+  {
+    "dealer_id": "D003",
+    "dealer_name": "Godavari Agro Traders",
+    "town": "Lasalgaon",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422306",
+    "phone": "+91 90000 00003",
+    "latitude": 20.1428,
+    "longitude": 74.2389
+  },
+  {
+    "dealer_id": "D004",
+    "dealer_name": "Balaji Krushi Seva Kendra",
+    "town": "Yeola",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "423401",
+    "phone": "+91 90000 00004",
+    "latitude": 20.0431,
+    "longitude": 74.4887
+  },
+  {
+    "dealer_id": "D005",
+    "dealer_name": "Sahyadri Farm Solutions",
+    "town": "Sinnar",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422103",
+    "phone": "+91 90000 00005",
+    "latitude": 19.8452,
+    "longitude": 73.9979
+  },
+  {
+    "dealer_id": "D006",
+    "dealer_name": "Dnyaneshwar Agro Centre",
+    "town": "Niphad",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422303",
+    "phone": "+919000000006",
+    "latitude": 20.0812,
+    "longitude": 74.1103
+  },
+  {
+    "dealer_id": "D007",
+    "dealer_name": "Vitthal Krushi Bhandar",
+    "town": "Dindori",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422202",
+    "phone": "+91 90000 00007",
+    "latitude": 20.2034,
+    "longitude": 73.8321
+  },
+  {
+    "dealer_id": "D008",
+    "dealer_name": "Kalwan Agro Depot",
+    "town": "Kalwan",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "423501",
+    "phone": "+91 90000 00008",
+    "latitude": 20.4913,
+    "longitude": 74.0276
+  },
+  {
+    "dealer_id": "D009",
+    "dealer_name": "Baglan Farmers Point",
+    "town": "Satana",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "423301",
+    "phone": "+91 90000 00009",
+    "latitude": 20.5947,
+    "longitude": 74.1982
+  },
+  {
+    "dealer_id": "D010",
+    "dealer_name": "Mosam Valley Agri Store",
+    "town": "Malegaon",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "423203",
+    "phone": "+91 90000 00010",
+    "latitude": 20.5541,
+    "longitude": 74.5293
+  },
+  {
+    "dealer_id": "D011",
+    "dealer_name": "Panchavati Krushi Kendra",
+    "town": "Manmad",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "423104",
+    "phone": "+91 90000 00011",
+    "latitude": 20.2517,
+    "longitude": 74.4406
+  },
+  {
+    "dealer_id": "D012",
+    "dealer_name": "Ghatmatha Agro Agencies",
+    "town": "Igatpuri",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422403",
+    "phone": "+91 90000 00012",
+    "latitude": 19.6958,
+    "longitude": 73.5631
+  },
+  {
+    "dealer_id": "D013",
+    "dealer_name": "Brahmagiri Farm Needs",
+    "town": "Trimbakeshwar",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422212",
+    "phone": "+91 90000 00013",
+    "latitude": 19.9331,
+    "longitude": 73.5296
+  },
+  {
+    "dealer_id": "D014",
+    "dealer_name": "Renuka Agro Sales",
+    "town": "Chandwad",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "423101",
+    "phone": "+91 90000 00014",
+    "latitude": 20.3312,
+    "longitude": 74.2418
+  },
+  {
+    "dealer_id": "D015",
+    "dealer_name": "VINAYAK KRUSHI SEVA KENDRA",
+    "town": "Ozar",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422206",
+    "phone": "+91 90000 00015",
+    "latitude": 20.0937,
+    "longitude": 73.9284
+  },
+  {
+    "dealer_id": "D016",
+    "dealer_name": "Ghoti Agri Junction",
+    "town": "Ghoti",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422402",
+    "phone": "+91 90000 00016",
+    "latitude": 19.7168,
+    "longitude": 73.6294
+  },
+  {
+    "dealer_id": "D017",
+    "dealer_name": "Pravara Agro Needs",
+    "town": "Sangamner",
+    "district": "Ahmednagar",
+    "state": "Maharashtra",
+    "pincode": "422605",
+    "phone": "+91 90000 00017",
+    "latitude": 19.5779,
+    "longitude": 74.2087
+  },
+  {
+    "dealer_id": "D018",
+    "dealer_name": "Kopargaon Krushi Bazaar",
+    "town": "Kopargaon",
+    "district": "Ahmednagar",
+    "state": "Maharashtra",
+    "pincode": "423601",
+    "phone": "+91 90000 00018",
+    "latitude": 19.8823,
+    "longitude": 74.4762
+  },
+  {
+    "dealer_id": "D019",
+    "dealer_name": "Vani Agro Junction",
+    "town": "Vani",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422215",
+    "phone": "+91 90000 00019",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "dealer_id": "D020",
+    "dealer_name": "Deola Farm Supplies",
+    "town": "Deola",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "423102",
+    "phone": "+91 90000 00020",
+    "latitude": 20.4519,
+    "longitude": 74.1608
+  }
+]

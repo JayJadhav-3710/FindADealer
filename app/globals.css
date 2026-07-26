@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #14261a;
+  --muted: #4d6354;
+  --leaf: #1f6b3a;
+  --leaf-soft: #e4f0e7;
+  --soil: #9a5b2f;
+  --alert: #9b2c2c;
+  --border: #c9d8cc;
+  --field-top: #dcefdc;
+  --field-mid: #f3f7ef;
+  --field-bottom: #e8efe3;
+  --background: var(--field-mid);
+  --foreground: var(--ink);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background:
+    radial-gradient(ellipse 120% 80% at 10% -20%, #c8e6c8 0%, transparent 55%),
+    radial-gradient(ellipse 90% 60% at 100% 0%, #d9e8d0 0%, transparent 50%),
+    linear-gradient(180deg, var(--field-top) 0%, var(--field-mid) 40%, var(--field-bottom) 100%);
+  color: var(--foreground);
+  font-family: var(--font-body), system-ui, sans-serif;
+  min-height: 100dvh;
+}
+
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+}
+
+.action-btn {
+  transition: transform 120ms ease, opacity 120ms ease, background-color 120ms ease;
+}
+
+.action-btn:active {
+  transform: scale(0.97);
+}
+
+.dealer-result {
+  animation: fade-up 360ms ease both;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
